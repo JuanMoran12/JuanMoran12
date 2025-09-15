@@ -41,9 +41,9 @@ Here are some of the technologies I work with:
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanMoran12"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanMoran12&theme=dark"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanMoran12&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMoran12&theme=dark"/>
 </a>
 </p>
 
