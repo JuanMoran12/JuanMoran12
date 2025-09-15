@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
- Hi, I'm Juan Morán, a developer passionate about creating things, from web and desktop applications to data analysis tools. I enjoy tackling complex problems and constantly learning new technologies. I'm a student and self-taught person with a desire to always improve and develop into a better professional.
+ Hi, I'm Juan Moran, a developer passionate about creating things, from web and desktop applications to data analysis tools. I enjoy tackling complex problems and constantly learning new technologies. I'm a student and self-taught person with a desire to always improve and develop into a better professional.
 
 
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
