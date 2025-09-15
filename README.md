@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hi, I'm Juan Moran, a developer passionate about creating things, from web and desktop applications to data analysis tools. I enjoy tackling complex problems and constantly learning new technologies. I'm a student and self-taught person with a desire to always improve and develop into a better professional.
+ Hi, I'm Juan Morán, a developer passionate about creating things, from web and desktop applications to data analysis tools. I enjoy tackling complex problems and constantly learning new technologies. I'm a student and self-taught person with a desire to always improve and develop into a better professional.
 
 
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
@@ -41,10 +41,12 @@ Here are some of the technologies I work with:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/JuanMoran12">
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=JuanMoran12&show_icons=true&theme=github-dark)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMoran12&layout=compact&langs_count=8&theme=github-dark"/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanMoran12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanMoran12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 -----
 ### 🤝🏻 &nbsp;Connect with Me
