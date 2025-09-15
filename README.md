@@ -51,10 +51,11 @@ Here are some of the technologies I work with:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:juanpablomoranperez@gmail.com"><img src="https://img.shields.io/badge/-juanpablomoranperez@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/juanpablomoranperez"><img src="https://img.shields.io/badge/-@juanpablomoranperez__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juanpablomoranperez"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 -----
 Credits: [Juan Moran](https://github.com/JuanMoran12)
+
