@@ -25,6 +25,8 @@ Here are some of the technologies I work with:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=for-the-badge&logo=mariadb&logoColor=003545)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis&logoColor=DC382D)&nbsp;
+![Valkey](https://img.shields.io/badge/-Valkey-05122A?style=for-the-badge&color=FF6900)&nbsp;
 ![APIs](https://img.shields.io/badge/-APIs-05122A?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?style=for-the-badge&logo=rest&logoColor=000000)\
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=for-the-badge&logo=plotly&logoColor=238CFF)\
@@ -54,6 +56,7 @@ Here are some of the technologies I work with:
 <a href="mailto:juanpablomoranperez@gmail.com"><img src="https://img.shields.io/badge/-juanpablomoranperez@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/juanpablomoranperez"><img src="https://img.shields.io/badge/-@juanpablomoranperez__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/juanpablomoranperez"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 -----
