@@ -9,16 +9,16 @@
 Here are some of the technologies I work with:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)&nbsp;
-![Java Servlet](https://img.shields.io/badge/-Java%20Servlet-05122A?style=for-the-badge&logo=apache-tomcat&logoColor=F8DC75)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=for-the-badge&logo=fastapi&logoColor=009688)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=for-the-badge&logo=plotly&logoColor=238CFF)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)&nbsp;
+![Java Servlet](https://img.shields.io/badge/-Java%20Servlet-05122A?style=for-the-badge&logo=apache-tomcat&logoColor=F8DC75)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=003B57)&nbsp;
