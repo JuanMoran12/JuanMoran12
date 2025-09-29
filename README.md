@@ -42,7 +42,7 @@ Here are some of the technologies I work with:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanMoran12&theme=dark"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMoran12&theme=dark"/>
@@ -54,7 +54,7 @@ Here are some of the technologies I work with:
 
 <p align="center">
 <a href="mailto:juanpablomoranperez@gmail.com"><img src="https://img.shields.io/badge/-juanpablomoranperez@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/juanpablomoranperez"><img src="https://img.shields.io/badge/-@juanpablomoranperez__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/juanmorandv"><img src="https://img.shields.io/badge/-@juanpablomoranperez__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="[https://www.linkedin.com/in/juanpablomoranperez](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/juan_Moran12"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
