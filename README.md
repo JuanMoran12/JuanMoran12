@@ -41,13 +41,8 @@ Here are some of the technologies I work with:
 -----
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanMoran12&theme=dark"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMoran12&theme=dark"/>
-</a>
-</p>
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanMoran12&theme=blue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMoran12&theme=blue-dark)
 
 -----
 ### 🤝🏻 &nbsp;Connect with Me
