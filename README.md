@@ -50,7 +50,7 @@ Here are some of the technologies I work with:
 <p align="center">
 <a href="mailto:juanpablomoranperez@gmail.com"><img src="https://img.shields.io/badge/-juanpablomoranperez@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/juanmorandv"><img src="https://img.shields.io/badge/-@juanpablomoranperez__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="[(https://www.linkedin.com/in/juan-moran-1a3388383/)]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-moran-1a3388383/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/juan_Moran12"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
