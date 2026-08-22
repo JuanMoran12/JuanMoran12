@@ -42,7 +42,7 @@ Here are some of the technologies I work with:
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![Juan's Profile](https://gh-readme-profile.vercel.app/api?username=JuanMoran12)
-![GitHub Streak](https://streak-stats.demolab.com?user=JuanMoran12&theme=blueberry)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuanMoran12&theme=blueberry)
 
 -----
 ### 🤝🏻 &nbsp;Connect with Me
